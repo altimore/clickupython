@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "clickupython"
-version = "1.0.6"
+version = "1.0.7"
 description = ""
 authors = ["Zach Johnson <imzachjohnson@gmail.com>","Robert Mullis <phoenix.scooter@gmail.com>"]
 readme = "README.md"
