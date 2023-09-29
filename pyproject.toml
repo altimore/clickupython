@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "clickupython"
-version = "1.0.5"
+version = "1.0.6"
 description = ""
-authors = ["Zach Johnson & Robert Mullis Email: imzachjohnson@gmail.com, phoenix.scooter@gmail.com"]
+authors = ["Zach Johnson <imzachjohnson@gmail.com>","Robert Mullis <phoenix.scooter@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
